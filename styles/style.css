@@ -1,0 +1,22 @@
+body {
+    background-image: url("../img/blur-background.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header {
+    margin: 10%;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+main {
+    margin: 10%;
+    width: 50%;
+}
+
+input, select ,button {
+    width: 40%;
+}
